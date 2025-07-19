@@ -87,10 +87,10 @@
             <!-- bengali vowel sign aa
                  bengali letter aa -->
             <Key
-                latin:keySpec="&#2494;"
-                latin:keyHintLabel="&#2438;"
-                latin:additionalMoreKeys="&#2438;"
-                latin:moreKeys="&#2437;" />
+                latin:keySpec="&#2476;"
+                latin:keyHintLabel="&#2477;"
+                latin:additionalMoreKeys="&#2477;"
+                latin:moreKeys="&#2477;" />
             <!-- bengali sign virama
                  bengali sign candrabindu -->
             <Key
@@ -101,9 +101,9 @@
             <!-- bengali letter ba
                  bengali letter bha -->
             <Key
-                latin:keySpec="&#2476;"
-                latin:keyHintLabel="&#2477;"
-                latin:moreKeys="&#2477;" />
+                latin:keySpec="&#2494;"
+                latin:keyHintLabel="&#2438;"
+                latin:moreKeys="&#2437;" />
             <!-- bengali letter ka
                  bengali letter kha -->
             <Key
